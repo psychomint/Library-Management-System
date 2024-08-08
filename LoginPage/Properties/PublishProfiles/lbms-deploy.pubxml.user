@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\working_publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>06/14/2024 10:15:49</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="Account/Manage.aspx">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="Account/OpenAuthProviders.ascx">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="Account/RegisterExternalLogin.aspx">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="addBook.aspx">
+      <publishTime>07/02/2024 15:38:21</publishTime>
+    </File>
+    <File Include="addBranch.aspx">
+      <publishTime>07/03/2024 15:20:42</publishTime>
+    </File>
+    <File Include="AddPublication.aspx">
+      <publishTime>07/02/2024 11:19:13</publishTime>
+    </File>
+    <File Include="AddStudent.aspx">
+      <publishTime>07/02/2024 15:46:00</publishTime>
+    </File>
+    <File Include="Admin.aspx">
+      <publishTime>07/02/2024 11:00:05</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>06/14/2024 10:16:01</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>06/14/2024 10:16:01</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="bin/LoginPage.dll">
+      <publishTime>08/08/2024 00:39:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>06/14/2024 10:16:03</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>06/14/2024 10:16:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>06/14/2024 10:16:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>06/14/2024 10:16:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>06/14/2024 10:16:03</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>06/14/2024 10:16:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>06/14/2024 10:16:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>06/14/2024 10:16:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>06/14/2024 10:16:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>06/14/2024 10:16:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>06/14/2024 10:16:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>06/14/2024 10:16:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>06/14/2024 10:16:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>06/14/2024 10:16:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/14/2024 10:16:01</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>06/14/2024 10:16:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>06/14/2024 10:16:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>06/14/2024 10:16:09</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bookissue.aspx">
+      <publishTime>07/02/2024 11:50:55</publishTime>
+    </File>
+    <File Include="branchService.asmx">
+      <publishTime>06/27/2024 15:02:23</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>06/14/2024 10:15:49</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>06/14/2024 10:15:49</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>06/14/2024 10:16:05</publishTime>
+    </File>
+    <File Include="datatables.min.css">
+      <publishTime>06/27/2024 12:08:02</publishTime>
+    </File>
+    <File Include="datatables.min.js">
+      <publishTime>06/27/2024 12:08:02</publishTime>
+    </File>
+    <File Include="DataTables/datatables.min.js">
+      <publishTime>06/27/2024 15:47:09</publishTime>
+    </File>
+    <File Include="DataTables/jQuery-2.2.0/jquery-2.2.4.min.js">
+      <publishTime>06/27/2024 15:43:43</publishTime>
+    </File>
+    <File Include="ErrorPage.aspx">
+      <publishTime>08/08/2024 01:41:48</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>06/14/2024 10:15:49</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/14/2024 10:15:49</publishTime>
+    </File>
+    <File Include="LoginPage.aspx">
+      <publishTime>07/17/2024 11:31:32</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>07/02/2024 14:05:56</publishTime>
+    </File>
+    <File Include="masterpage.Master">
+      <publishTime>07/16/2024 15:14:40</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/14/2024 10:16:10</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>06/14/2024 10:15:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>06/14/2024 10:15:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>06/14/2024 10:15:54</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>06/14/2024 10:15:59</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>06/14/2024 10:15:59</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>06/14/2024 10:15:59</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>06/14/2024 10:16:02</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>06/27/2024 15:47:09</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>07/01/2024 17:20:20</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>06/14/2024 10:16:03</publishTime>
+    </File>
+    <File Include="Student/BookReport.aspx">
+      <publishTime>07/03/2024 11:17:01</publishTime>
+    </File>
+    <File Include="Student/changePassword.aspx">
+      <publishTime>07/03/2024 14:47:47</publishTime>
+    </File>
+    <File Include="Student/editprofile.aspx">
+      <publishTime>07/03/2024 11:21:58</publishTime>
+    </File>
+    <File Include="Student/myaccount.aspx">
+      <publishTime>07/03/2024 11:16:38</publishTime>
+    </File>
+    <File Include="Student/myreport.aspx">
+      <publishTime>07/03/2024 11:12:40</publishTime>
+    </File>
+    <File Include="Student/penaltypage.aspx">
+      <publishTime>07/03/2024 11:16:29</publishTime>
+    </File>
+    <File Include="Student/StudentHomePage.aspx">
+      <publishTime>07/03/2024 11:18:06</publishTime>
+    </File>
+    <File Include="Student/StudentNew.Master">
+      <publishTime>07/03/2024 14:46:36</publishTime>
+    </File>
+    <File Include="StudentService.asmx">
+      <publishTime>06/27/2024 12:19:05</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>06/14/2024 10:16:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/08/2024 01:45:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

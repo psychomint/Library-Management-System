@@ -1,0 +1,4 @@
+C:\Users\Brijesh\OneDrive\Documents\visual studio 2013\Projects\LoginPage\obj\Debug\net8.0\LoginPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brijesh\OneDrive\Documents\visual studio 2013\Projects\LoginPage\obj\Debug\net8.0\LoginPage.AssemblyInfoInputs.cache
+C:\Users\Brijesh\OneDrive\Documents\visual studio 2013\Projects\LoginPage\obj\Debug\net8.0\LoginPage.AssemblyInfo.cs
+C:\Users\Brijesh\OneDrive\Documents\visual studio 2013\Projects\LoginPage\obj\Debug\net8.0\LoginPage.csproj.CoreCompileInputs.cache
